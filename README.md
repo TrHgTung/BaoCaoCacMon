@@ -3,4 +3,4 @@
 
 Mỗi nhánh của repo là 1 môn
 
-> Thay đổi nội dung bài báo cáo để tránh copy
+> Hi vọng các bạn không lạm dụng mà chỉ dùng ở mức độ tham khảo.
